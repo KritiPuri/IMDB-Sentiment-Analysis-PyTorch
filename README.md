@@ -1,6 +1,4 @@
-# IMDB Simple RNN Sentiment Analysis — Pure PyTorch
-
-This version uses **PyTorch for the neural network and training** and Python's standard library for downloading, reading, tokenizing, and preprocessing the dataset. TensorFlow/Keras is not used.
+# IMDB Simple RNN Sentiment Analysis 
 
 ## Model
 - IMDB dataset: 25,000 training and 25,000 test reviews
